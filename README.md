@@ -6,7 +6,7 @@
 </div>
   
   
-  ## 🚀 Skills
+  # 🚀 Skills
 
   ### Languages
 
