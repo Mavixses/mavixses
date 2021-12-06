@@ -37,15 +37,13 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
   
-</div>
-  
-  <div style="display: inline_block"><br>
-    
   ###  ```About me: ```
   
-    <a href="https://www.instagram.com/mati_fullana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    
-  </div>
+  <a href="https://www.instagram.com/mati_fullana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
+  
+
   
 
 
