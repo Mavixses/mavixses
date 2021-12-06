@@ -8,7 +8,7 @@
   
   ## 🚀 Skills
 
-  #### Languages
+  ### Languages
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 
@@ -24,7 +24,7 @@
 
 </p>
 
-  #### 🔧 Tools
+  ### Tools
  
 <!--
 **Mavixses/Mavixses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
