@@ -1,4 +1,6 @@
 
+<div style="display: inline_block"><br>
+
   ## ``` MAVIXSES:``` *A Ethical Hacker, Red Hat* <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
 
 
@@ -9,7 +11,7 @@
 </div>
   
 
-<div style="display: inline_block"><br>
+
   
   ## 🚀 Skills:
   
