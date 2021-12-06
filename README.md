@@ -4,6 +4,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mavixses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavixses&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  
+  ## 🚀 Skills
+
+  #### Languages
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 
@@ -19,6 +24,8 @@
 
 </p>
 
+  #### Tools
+ 
 <!--
 **Mavixses/Mavixses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
