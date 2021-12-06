@@ -1,5 +1,4 @@
 
-<div style="display: inline_block"><br>
 
   ## ``` MAVIXSES:``` *A Ethical Hacker, Red Hat* <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
 
@@ -11,7 +10,7 @@
 </div>
   
 
-
+<div style="display: inline_block"><br>
   
   ## 🚀 Skills:
   
@@ -39,7 +38,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
   
-  ###  ```About me: ```
+  #  ```About me: ```
   
   <a href="https://www.instagram.com/mati_fullana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
