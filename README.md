@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
   
-  ##🚀 Skills:
+  ## 🚀 Skills:
   
   ### ```- Languages:```
   
