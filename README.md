@@ -7,8 +7,8 @@
   <a href="https://steamcommunity.com/profiles/76561199019760423" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/xmxencseferjjpayql5j494la/playlist/7HLBtZexEOSPY0tNnMMMbU?si=fBhEPmIcTXefQojrjDjHBg" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   
-</divalign="center"><br>                  <!--   Stats    -->
-<div>
+</div><br>                  <!--   Stats    -->
+<div align="center">
   <a href="https://github.com/Mavixses">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Mavixses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavixses&layout=compact&langs_count=7&theme=dracula"/>
